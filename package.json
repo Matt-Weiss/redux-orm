@@ -1,6 +1,7 @@
 {
-  "name": "redux-orm",
-  "version": "0.16.2",
+  "name": "@matt-weiss/redux-orm",
+  "private": false,
+  "version": "0.16.3",
   "description": "Simple ORM to manage and query your state trees",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -39,12 +40,12 @@
   "author": "Tommi Kaikkonen <tommi.kaikkonen@aalto.fi>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/redux-orm/redux-orm.git"
+    "url": "https://github.com/Matt-Weiss/redux-orm.git"
   },
   "bugs": {
-    "url": "https://github.com/redux-orm/redux-orm/issues"
+    "url": "https://github.com/Matt-Weiss/redux-orm/issues"
   },
-  "homepage": "https://redux-orm.github.io/redux-orm",
+  "homepage": "https://github.com/Matt-Weiss/redux-orm",
   "license": "MIT",
   "devDependencies": {
     "@babel/cli": "^7.13.0",
@@ -100,7 +101,7 @@
   "dependencies": {
     "@babel/runtime": "^7.13.9",
     "immutable-ops": "^0.7.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.3.0",
     "re-reselect": "^4.0.0",
     "reselect": "^3.0.1"
   }
