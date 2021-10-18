@@ -1,3 +1,6 @@
+This is a fork of https://github.com/redux-orm/redux-orm. I have only updated the lodash version.
+Install this version with `npm install @matt-weiss/redux-orm --save`
+
 <h1 align="center">Redux-ORM</h1>
 
 <div align="center">
